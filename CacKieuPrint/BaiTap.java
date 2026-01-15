@@ -10,6 +10,7 @@ public class BaiTap {
 		System.out.println(
 				"Tôi tên là " + name + " và tôi năm nay " + age + "" + " tuổi , hiện tại tôi sống ở " + Country);
 		// cách 2 : dùng định dạng format
-		System.out.printf("Tôi tên là %s và tôi năm nay %d , hiện tại tôi sống ở %s", name, age, Country);
+		System.out.printf("Tôi tên là %s và tôi năm nay %d , hiện tại tôi sống ở %s tuổi", name, age, Country);
+		// TEST GIT PUSSHHHHHHHHHHHH
 	}
 }
