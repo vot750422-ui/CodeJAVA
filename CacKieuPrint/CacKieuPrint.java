@@ -18,7 +18,7 @@ public class CacKieuPrint {
 		// thập phân
 		// muốn hiện ra
 		System.out.printf("Tôi tên là %s và hiện tại tôi sống ở %s", "Trọng", "Hậu Giang");
-		// -%s cũng giống với %d nhưng chỉ áp dụng cho chuỗi và chuỗi pahri đặt trong
+		// -%s cũng giống với %d nhưng chỉ áp dụng cho chuỗi và chuỗi phải đặt trong
 		// cặp "
 	}
 }
